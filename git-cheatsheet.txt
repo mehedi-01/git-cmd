@@ -1,0 +1,14 @@
+1.ls - lart    >>>> hidden file show kore
+2.touch index.htm  >>> new file add kora jay
+3. clear  >>>> sob clear kora jay
+4.git status >>> git er bortoman obostha
+4.git add -A >>> All file ekastewh stage a jabe
+5.git reset  >>> All file reset hoea jabe New vabe chole asbe 
+6.git checkout index.html >>> 1 file back korar upai
+7.git checkout -f >>> all file back korar upai
+8.git log -p -1 >> last commit jodi dekte chai 
+9.git diff >>> difference dekhabe
+10.git diff --staged >>>  stage j ase tar sathe compare korbe 
+11.git reset  --hard >>> sob kicu ager moto hoya jabe
+12.git rm file name -f >> file remove korar jonno 
+
